@@ -52,8 +52,6 @@ class HomePage extends StatelessWidget {
               ],
             ),
 
-            // Image.asset('images/1.png'
-            // )
             SizedBox(height: 10),
 
             Container(
